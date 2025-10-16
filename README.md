@@ -195,6 +195,7 @@ done
 
 ## 许可证
 
+本项目采用 BSD-3-Clause 许可证。详见 [LICENSE](../LICENSE) 文件。
 
 ## 相关资源
 
